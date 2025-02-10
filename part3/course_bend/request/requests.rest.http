@@ -1,0 +1,12 @@
+GET localhost:3001/api/notes
+
+###
+
+POST localhost:3001/api/notes
+Content-Type: application/json
+
+{
+  "id": "4",
+  "content": "hello World",
+  "important": "true"
+}
