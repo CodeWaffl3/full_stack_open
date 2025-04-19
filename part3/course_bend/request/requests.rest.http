@@ -7,6 +7,6 @@ Content-Type: application/json
 
 {
   "id": "4",
-  "content": "hello World",
+  "content": "Webstorm HTTP REQUEST Name",
   "important": "true"
 }
